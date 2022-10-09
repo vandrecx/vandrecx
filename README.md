@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vandré
 - 🌱 I’m currently learning Web Development
-- 🚀 Actually a member of D3TEC Junior Enterprise
+- 🚀 Member of D3TEC Junior Enterprise
 - 📫 vcortesoliveira@gmail.com
 
 <!---
