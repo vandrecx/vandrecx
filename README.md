@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Vandré
-- 🌱 I’m currently learning Web Development
 - 🚀 Member of D3TEC Junior Enterprise
 - 📫 vcortesoliveira@gmail.com
 
