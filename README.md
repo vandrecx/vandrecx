@@ -1,5 +1,3 @@
-- 🚀 Member of D3TEC Junior Enterprise
-- 📫 vcortesoliveira@gmail.com
 
 <!---
 vandrecx/vandrecx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
